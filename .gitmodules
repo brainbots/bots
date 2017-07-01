@@ -1,0 +1,18 @@
+[submodule "translator"]
+	path = translator
+	url = git@github.com:brainbots/bot-translator.git
+[submodule "weather"]
+	path = weather
+	url = git@github.com:brainbots/bot-weather.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:brainbots/bot-calculator.git
+[submodule "search"]
+	path = search
+	url = git@github.com:brainbots/bot-search.git
+[submodule "mail"]
+	path = mail
+	url = git@github.com:brainbots/bot-mail.git
+[submodule "video"]
+	path = video
+	url = git@github.com:brainbots/bot-video.git
