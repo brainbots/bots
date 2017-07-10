@@ -1,24 +1,24 @@
 [submodule "translator"]
 	path = translator
-	url = git@github.com:brainbots/bot-translator.git
+	url = https://github.com/brainbots/bot-translator.git
 	branch = master
 [submodule "weather"]
 	path = weather
-	url = git@github.com:brainbots/bot-weather.git
+	url = https://github.com/brainbots/bot-weather.git
 	branch = master
 [submodule "calculator"]
 	path = calculator
-	url = git@github.com:brainbots/bot-calculator.git
+	url = https://github.com/brainbots/bot-calculator.git
 	branch = master
 [submodule "search"]
 	path = search
-	url = git@github.com:brainbots/bot-search.git
+	url = https://github.com/brainbots/bot-search.git
 	branch = master
 [submodule "mail"]
 	path = mail
-	url = git@github.com:brainbots/bot-mail.git
+	url = https://github.com/brainbots/bot-mail.git
 	branch = master
 [submodule "video"]
 	path = video
-	url = git@github.com:brainbots/bot-video.git
+	url = https://github.com/brainbots/bot-video.git
 	branch = master
